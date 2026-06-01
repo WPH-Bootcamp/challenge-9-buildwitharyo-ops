@@ -203,7 +203,7 @@ Assignment ini akan dinilai berdasarkan 5 kriteria utama:
 3. Clean up console.logs dan debugging code
 4. Update README jika ada setup tambahan yang diperlukan
 5. Push code ke repository GitHub
-6. Deploy ke platform pilihan (Vercel/Netlify) - **BONUS POINT**
+6. Deploy ke platform pilihan ([Vercel/Netlify](https://challenge-9-buildwitharyo-ops.vercel.app)) - **BONUS POINT**
 
 ## Bantuan & Pertanyaan
 
